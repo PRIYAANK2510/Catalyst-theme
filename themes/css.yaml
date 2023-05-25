@@ -1,0 +1,44 @@
+# -----------------------------------------------------------------------------
+# CSS
+# -----------------------------------------------------------------------------
+- scope: entity.name.tag.css
+  settings:
+    foreground: _Green
+- scope: entity.other.attribute-name.class.css
+  settings:
+    foreground: _Cream-100
+    fontStyle: ''
+- scope: entity.other.attribute-name.id.css, entity.other.attribute-name.id.css
+  settings:
+    foreground: _Blue
+    fontStyle: ''
+- scope: entity.other.attribute-name.pseudo-element.css, entity.name.tag.wildcard.css, 	entity.other.attribute-name.pseudo-class.css
+  settings:
+    foreground: _Red-dull
+- scope: meta.attribute-selector.css
+  settings:
+    foreground: _Light-Maroon
+- scope: meta.property-name.css, support.type.property-name.media.css
+  settings:
+    foreground: _Baby-pink-dull
+- scope: meta.property-value.css, keyword.operator.combinator.css
+  settings:
+    foreground: _gray-100
+- scope: meta.at-rule
+  settings:
+    foreground: _Cream-200
+- scope: variable.css, variable.argument.css
+  settings:
+    foreground: _Cyan
+- scope: punctuation.terminator.rule.css, punctuation.separator.key-value.css, punctuation.separator.list.comma.css
+  settings:
+    foreground: _gray-200
+- scope: keyword.control.at-rule, support.function
+  settings:
+    foreground: _Purple
+- scope: meta.function.url.css
+  settings:
+    foreground: _Green-dull
+- scope: keyword.other.important.css
+  settings:
+    foreground: _Red

@@ -1,0 +1,27 @@
+{
+	"name": "panda-better",
+	"displayName": "Panda-Better",
+	"description": "Panda Fork with better colors atleast thats what I think",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"scripts": {
+		"build": "node build.js"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Catalyst",
+				"uiTheme": "vs-dark",
+				"path": "./dist/Catalyst.json"
+			}
+		]
+	},
+	"dependencies": {
+		"js-yaml": "^4.1.0"
+	}
+}

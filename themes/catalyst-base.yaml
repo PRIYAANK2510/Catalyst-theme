@@ -1,0 +1,10 @@
+$schema: vscode://schemas/color-theme
+author: Priyaank
+name: Catalyst
+colorSpaceName: sRGB
+semanticClass: theme.dark.Catalyst
+tokenColors:
+  - scope: comment
+    settings:
+      foreground: _gray-300
+      fontStyle: italic
