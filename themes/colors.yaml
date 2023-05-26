@@ -17,16 +17,21 @@ _gray-200: '#858585'
 _gray-300: '#555555'
 
 #Green Family
+
 _Green: '#8db971'
 _Green-dull: '#8aa877'
+
+_DGreen-100: '#59857a'
+_DGreen-200: '#3f8273'
+_DGreen-dull: '#8b9c97'
 
 #Red Family
 _Red-dull: '#b35d5b'
 _Red: '#bf403e'
 
 #Orange Brown Family
-_Cream-100: '#c88c67'
-_Cream-200: '#c2a8a2'
+_Orange: '#c88c67'
+_Cream: '#c2a8a2'
 
 #Blue Family
 _Blue: '#64a6d0'

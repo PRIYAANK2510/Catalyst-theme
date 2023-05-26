@@ -3,4 +3,20 @@
 # -----------------------------------------------------------------------------
 - scope: entity.name.tag.html
   settings:
-    foreground: '#3b8e66'
+    foreground: _DGreen-200
+
+- scope: entity.other.attribute-name.html
+  settings:
+    foreground: _Orange
+- scope: constant.character.entity.named.copy.html
+  settings:
+    foreground: _Baby-pink
+- scope: string.quoted.double.html
+  settings:
+    foreground: _Green-dull
+- scope: punctuation.definition.tag
+  settings:
+    foreground: _DGreen-100
+- scope: text.html.derivative
+  settings:
+    foreground: _DGreen-dull
