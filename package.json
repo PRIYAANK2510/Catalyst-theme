@@ -20,8 +20,5 @@
 				"path": "./dist/Catalyst.json"
 			}
 		]
-	},
-	"dependencies": {
-		"js-yaml": "^4.1.0"
 	}
 }
