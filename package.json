@@ -7,7 +7,7 @@
 	"icon": "assets/logo.png",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/PRIYAANK2510/Catalyst-theme"
 	},
 	"engines": {
 		"vscode": "^1.78.0"

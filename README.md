@@ -6,8 +6,8 @@ Icon pack used in screenshots : [Material Icon Theme](https://marketplace.visual
 
 ## Screenshots
 
-![]()
-![]()
+![](https://raw.githubusercontent.com/PRIYAANK2510/Catalyst-theme/main/assets/SS2.png)
+![](https://raw.githubusercontent.com/PRIYAANK2510/Catalyst-theme/main/assets/SS1.png)
 
 Something's missing ? [create Issues]() so that I can make the theme as compatible as possible ! ❤️ ;)
 
