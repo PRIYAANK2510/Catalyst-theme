@@ -1,6 +1,6 @@
 # Catalyst
 
-Font used in screenshots : [Fira COde](https://github.com/tonsky/FiraCode)
+Font used in screenshots : [Fira Code](https://github.com/tonsky/FiraCode)
 
 Icon pack used in screenshots : [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -9,7 +9,7 @@ Icon pack used in screenshots : [Material Icon Theme](https://marketplace.visual
 ![](https://raw.githubusercontent.com/PRIYAANK2510/Catalyst-theme/main/assets/SS2.png)
 ![](https://raw.githubusercontent.com/PRIYAANK2510/Catalyst-theme/main/assets/SS1.png)
 
-Something's missing ? [create Issues]() so that I can make the theme as compatible as possible ! ❤️ ;)
+Something's missing ? [create Issues](https://github.com/PRIYAANK2510/Catalyst-theme/issues) so that I can make the theme as compatible as possible ! ❤️ ;)
 
 ## 🚀 Installation
 
