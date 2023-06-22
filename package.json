@@ -1,14 +1,25 @@
 {
-	"name": "panda-better",
-	"displayName": "Panda-Better",
-	"description": "Panda Fork with better colors atleast thats what I think",
+	"name": "catalyst",
+	"displayName": "Catalyst",
+	"description": "A theme i developed using vscode theme editor for personal purpose.",
 	"version": "0.0.1",
+	"publisher": "Priyaank",
+	"icon": "assets/logo.png",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
 	"engines": {
 		"vscode": "^1.78.0"
 	},
-	"scripts": {
-		"build": "node build.js"
-	},
+	"keywords": [
+		"theme",
+		"IrOny",
+		"irony",
+		"Priyaank",
+		"dark theme",
+		"dark"
+	],
 	"categories": [
 		"Themes"
 	],
@@ -17,7 +28,7 @@
 			{
 				"label": "Catalyst",
 				"uiTheme": "vs-dark",
-				"path": "./dist/Catalyst.json"
+				"path": "./themes/Catalyst.json"
 			}
 		]
 	}
